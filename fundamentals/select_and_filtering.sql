@@ -1,4 +1,20 @@
 /* =========================================================
+FILE: select_and_filtering.sql
+
+Purpose:
+Demonstrate how basic SELECT and filtering logic can be applied
+to real business scenarios (Sales pipeline prioritization,
+Cash collection, etc.).
+
+Focus:
+- Business-driven filtering
+- Prioritization logic
+- Impact-oriented ordering
+
+========================================================= */
+
+
+/* =========================================================
 CASE: Sales pipeline triage (weekly) — Growth/Sales oriented
 Context:
 - Table: deals
